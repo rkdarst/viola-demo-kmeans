@@ -1,6 +1,5 @@
-jupyterlab
 ipywidgets
 matplotlib
-notebook
 numpy
-voila
+scipy
+voila==0.1.10
