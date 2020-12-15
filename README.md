@@ -6,7 +6,7 @@ This demonstrates using jupyter +
 arbitrary input dataset, with some basic interaction.  This can easily
 be extended to other methods.
 
-To start, click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkdarst/voila-demo-kmeans/HEAD?filepath=%2Fvoila%2Frender%2Fkmeans.ipynb)
+To start, click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkdarst/voila-demo-kmeans/HEAD?urlpath=voila%2Frender%2Fkmeans.ipynb)
 
 The backend is a Jupyter notebook, and the frontend is also Jupyter,
 but through the "voila" interface, which hides everything except for
