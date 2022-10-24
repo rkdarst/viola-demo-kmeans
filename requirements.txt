@@ -2,4 +2,4 @@ ipywidgets
 matplotlib
 numpy
 scipy
-voila==0.1.10
+voila
